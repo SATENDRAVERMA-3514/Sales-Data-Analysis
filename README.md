@@ -1,4 +1,4 @@
-# 📊 Power BI Sales Analysis Project
+# 📊Sales Analysis Project
 
 This repository presents a **Sales Data Analysis Dashboard** built using **Power BI Desktop**, designed to explore sales performance across states, categories, customers, and time periods. The project demonstrates how data visualization can simplify decision-making by converting raw sales data into meaningful insights.
 
